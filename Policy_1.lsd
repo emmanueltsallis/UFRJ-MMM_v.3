@@ -772,7 +772,7 @@ Var: Time_Step 0 n + n n
 
 Object: COUNTRY C	1
 Param: annual_frequency 0 n + n n	4
-Param: begin_credit_rationing 0 n + n n	0
+Param: begin_credit_rationing 0 n + n n	-1
 Param: begin_expenses_ceiling_rule 0 n + n n	-1
 Param: begin_flexible_exchange_rate 0 n + n n	0
 Param: begin_flexible_surplus_target 0 n + n n	0
@@ -1475,7 +1475,7 @@ Var: MGDP 0 s + n n
 Var: XGDP 0 s + n n
 Var: DX_GDP 0 s + n n
 
-SIM_NUM 1
+SIM_NUM 5
 SEED 1
 MAX_STEP 600
 EQUATION fun_micro_macro_v.3.6.cpp
