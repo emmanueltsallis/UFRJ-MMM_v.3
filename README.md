@@ -1,5 +1,77 @@
-# MMM_v.3.6
-Multisectoral Micro-Macro Model Version 3.6 (Finance Augmented)
+# MMM_Monte Carlo
+Monte Carlo experiment with Multisectoral Micro-Macro Model Version 3.6 (Finance Augmented)
+
+## RESULTADOS
+
+Para comparar os resultados de cada política, vamos nos concentrar em três indicadores econômicos-chave: inflação do CPI, crescimento econômico anual e utilização da capacidade. Vamos examinar as médias, medianas, desvio padrão, valores mínimos e máximos para cada indicador em cada política.
+
+Política 1: Regra de Taylor e Meta de Superávit Primário
+- Média da Inflação do CPI: 0,018
+- Mediana da Inflação do CPI: 0,0173
+- Desvio Padrão da Inflação do CPI: 0,00556
+- Mínimo da Inflação do CPI: -0,000802
+- Máximo da Inflação do CPI: 0,0399
+
+- Média do Crescimento Anual: 0,026
+- Mediana do Crescimento Anual: 0,0243
+- Desvio Padrão do Crescimento Anual: 0,0284
+- Mínimo do Crescimento Anual: -0,0679
+- Máximo do Crescimento Anual: 0,13
+
+- Média da Utilização da Capacidade: 0,921
+- Mediana da Utilização da Capacidade: 0,924
+- Desvio Padrão da Utilização da Capacidade: 0,0198
+- Mínimo da Utilização da Capacidade: 0,855
+- Máximo da Utilização da Capacidade: 0,96
+
+Política 3: Regra de Taylor e Política Fiscal Não-Restritiva
+- Média da Inflação do CPI: 0,018
+- Mediana da Inflação do CPI: 0,0183
+- Desvio Padrão da Inflação do CPI: 0,00362
+- Mínimo da Inflação do CPI: 0,0061
+- Máximo da Inflação do CPI: 0,0287
+
+- Média do Crescimento Anual: 0,0286
+- Mediana do Crescimento Anual: 0,0282
+- Desvio Padrão do Crescimento Anual: 0,0191
+- Mínimo do Crescimento Anual: -0,023
+- Máximo do Crescimento Anual: 0,093
+
+- Média da Utilização da Capacidade: 0,926
+- Mediana da Utilização da Capacidade: 0,927
+- Desvio Padrão da Utilização da Capacidade: 0,0118
+- Mínimo da Utilização da Capacidade: 0,881
+- Máximo da Utilização da Capacidade: 0,959
+
+Política 4: Taxa de Juros Fixa e Política Fiscal Não-Restritiva
+- Média da Inflação do CPI: 0,0172
+- Mediana da Inflação do CPI: 0,0168
+- Desvio Padrão da Inflação do CPI: 0,00406
+- Mínimo da Inflação do CPI: 0,00605
+- Máximo da Inflação do CPI: 0,0318
+
+- Média do Crescimento Anual: 0,0265
+- Mediana do Crescimento Anual: 0,0263
+- Desvio Padrão do Crescimento Anual: 0,0194
+- Mínimo do Crescimento Anual: -0,0389
+- Máximo do Crescimento Anual: 0,09
+
+- Média da Utilização da Capacidade: 0,92
+- Mediana da Utilização da Capacidade: 0,924
+- Desvio Padrão da Utilização da Capacidade: 0,0185
+- Mínimo da Utilização da Capacidade: 0,847
+- Máximo da Utilização da Capacidade: 0,963
+
+Comparação:
+1. Em termos de inflação do CPI, a Política 3 (Regra de Taylor e Política Fiscal Não-Restritiva) tem o desvio padrão mais baixo e a taxa de inflação mediana mais alta, indicando uma inflação relativamente estável em comparação com as outras políticas.
+
+2. Em termos de crescimento anual, a Política 3 também tem as maiores taxas médias e medianas de crescimento, sugerindo que ela pode levar a um melhor crescimento econômico.
+
+3. Em relação à utilização da capacidade, a Política 3 tem os valores médios e medianos mais altos, indicando que a economia opera mais próxima de sua capacidade máxima sob essa política.
+
+4. A Política 4 (Taxa de Juros Fixa e Política Fiscal Não-Restritiva) geralmente apresenta resultados semelhantes aos da Política 1 (Regra de Taylor e Meta de Superávit Primário), mas com uma inflação ligeiramente mais baixa e um crescimento econômico um pouco maior.
+
+Em geral, a Política 3 parece ter resultados econômicos mais favoráveis em termos de estabilidade da inflação, crescimento econômico e utilização da capacidade em comparação com as outras políticas. A Política 4 também mostra resultados positivos, enquanto a Política 1 tem um crescimento econômico relativamente mais baixo e inflação ligeiramente menos estável.
 
 ## WHAT'S NEW?
 
